@@ -21,6 +21,6 @@ GM是管理员的意思<br>
 汉化：https://amonguscn.club/%e4%bf%ae%e9%81%93%e9%99%a2%e6%a8%a1%e7%bb%84%ef%bc%88las-monjas%ef%bc%89-v1-5-5%e6%b1%89%e5%8c%96/<br>
 强行绑定潜艇地图，千年隼，小游戏
 ## Nebula On The Ship（1.9.3）
-原项目地址：https://github.com/Dolly1016/Nebula
-汉化：https://amonguscn.club/%e6%98%9f%e4%ba%91%e8%88%b0%e6%a8%a1%e7%bb%84nebula-v1-9-3%e6%b1%89%e5%8c%96/
+原项目地址：https://github.com/Dolly1016/Nebula<br>
+汉化：https://amonguscn.club/%e6%98%9f%e4%ba%91%e8%88%b0%e6%a8%a1%e7%bb%84nebula-v1-9-3%e6%b1%89%e5%8c%96/<br>
 Bug舰
