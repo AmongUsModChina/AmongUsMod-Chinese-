@@ -15,3 +15,7 @@ GM是管理员的意思<br>
 原项目地址：https://github.com/haoming37/TheOtherRoles-GM-Haoming<br>
 汉化：https://amonguscn.club/%e8%b6%85%e5%a4%9a%e8%81%8c%e4%b8%9a%ef%bc%9agmh%e7%89%88-v2-0-6%e6%b1%89%e5%8c%96/<br>
 支持潜艇地图；随机出生点；添加任务
+## Las Monjas（1.5.7）
+原项目地址：https://github.com/KiraYamato94/LasMonjas<br>
+汉化：https://amonguscn.club/%e4%bf%ae%e9%81%93%e9%99%a2%e6%a8%a1%e7%bb%84%ef%bc%88las-monjas%ef%bc%89-v1-5-5%e6%b1%89%e5%8c%96/<br>
+强行绑定潜艇地图，千年隼，小游戏
